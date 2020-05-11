@@ -1,0 +1,35 @@
+﻿@media only screen and (min-width: 1000px) and (max-width: 5000px) {
+    html body .kc-css-280433 {
+        width: 100%;
+    }
+
+    html body .kc-css-918724 {
+        width: 100%;
+    }
+}
+
+.kc-css-373330 .kc_column {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.kc-css-373330 > .kc-wrap-columns {
+    margin-left: -0px;
+    margin-right: -0px;
+    width: calc(100% + 0px);
+}
+
+html body .kc-css-373330 {
+    text-align: center;
+}
+
+html body .kc-css-120481 {
+    margin-bottom: 57px;
+}
+
+@media only screen and (max-width: 767px) {
+    html body .kc-css-373330 {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
